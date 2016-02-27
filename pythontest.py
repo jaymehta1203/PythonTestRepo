@@ -1,1 +1,1 @@
-print "python";
+echo "protek"
